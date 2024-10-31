@@ -98,11 +98,11 @@ The FarmFlow dashboard serves as the main interface for users. It combines farm 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/3mtt-challenge.git
+   git clone https://github.com/omokanye/farmflow.git
 
 ###
 Tech Stack
-Front-end: HTML, CSS, JavaScript
+Front-end: Bootstrap
 Back-end: Node.js
 Database: MongoDB or SQLite
 Version Control: Git & GitHub
